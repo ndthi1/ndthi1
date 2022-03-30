@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyen Dang Thi   
 
 
-## I'm a Student, Developer !!
+## A Student, Developer !!
 
 -   🌱 I’m currently learning to become Back-end Engineer ,
 -   👯 I’m trying my best to become a professional creative developer
