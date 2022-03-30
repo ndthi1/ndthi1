@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Nguyen Dang Thi   
 
-<!--
-**ndthi1/ndthi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Student, Developer !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🌱 I’m currently learning to become Back-end Engineer ,
+-   👯 I’m trying my best to become a professional creative developer
+-   🥅 2022 Goals: Learning as much as possible and do more projects
+-   ⚡ Hobby: I love to play game 
+
+<!-- ## Contact for work
+
+This is my resume (up-to-date): [PhanViGiai-DataEngineer-Resume](https://drive.google.com/file/d/1GRJ0RjpLdCpuE1YSQGpYpMdfcC56jQii/view?usp=sharing) -->
